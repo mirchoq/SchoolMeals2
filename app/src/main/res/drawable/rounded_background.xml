@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Цвет фона -->
+    <solid android:color="#384252" />
+
+    <!-- Контур -->
+    <stroke
+        android:width="1.5dp"
+        android:color="#4A505E" />
+
+    <!-- Скругление углов -->
+    <corners
+        android:radius="35dp" />
+
+</shape>
