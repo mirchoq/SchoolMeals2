@@ -16,8 +16,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+
     }
 }
+
 
 rootProject.name = "School meals"
 include(":app")
